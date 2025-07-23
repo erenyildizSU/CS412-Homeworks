@@ -72,7 +72,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 
 **Objective:** Perform binary gender classification using a pre-trained **VGG-16** model on the **CelebA** dataset.
 
-- Dataset: 30,000 celebrity face images with gender labels
+- Dataset: 30,000 celebrity face images with gender labels ([Download dataset here] --> https://drive.google.com/file/d/1Olu9gh9k-TwkapJ_rrYgBOlK14Lvs-1G/view?usp=sharing)
 - Data split: 80% train, 10% validation, 10% test
 - Two training strategies:
   1. Freeze all convolutional layers, train only classifier head
