@@ -15,7 +15,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 
 ---
 
-## 🧠 HW1 – kNN & Decision Tree Classification on MNIST
+## HW1 – kNN & Decision Tree Classification on MNIST
 
 **Objective:** Implement and compare k-NN and Decision Tree classifiers on the MNIST handwritten digit dataset.
 
@@ -32,7 +32,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 
 ---
 
-## 📈 HW2 – Linear & Polynomial Regression
+## HW2 – Linear & Polynomial Regression
 
 **Objective:** Implement regression methods on synthetic datasets to model linear and nonlinear relationships.
 
@@ -52,7 +52,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 
 ---
 
-## 🔁 HW3 – Gradient Descent & Naïve Bayes
+## HW3 – Gradient Descent & Naïve Bayes
 
 **Objective:** Apply optimization techniques and implement a Naïve Bayes classifier from scratch.
 
@@ -68,7 +68,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 
 ---
 
-## 🤖 HW4 – Transfer Learning on CelebA
+## HW4 – Transfer Learning on CelebA
 
 **Objective:** Perform binary gender classification using a pre-trained **VGG-16** model on the **CelebA** dataset.
 
