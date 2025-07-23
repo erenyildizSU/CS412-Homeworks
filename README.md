@@ -27,8 +27,8 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 - Misclassification analysis
 
 📁 Files:  
-- `CS412-HW1-HüseryinErenYildiz.ipynb`  
-- `CS412-HW1-HüseryinErenYildiz.pdf`
+- `CS412-HW1-HüseyinErenYildiz.ipynb`  
+- `CS412-HW1-HüseyinErenYildiz.pdf`
 
 ---
 
@@ -47,8 +47,8 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 - Line fitting and loss curve visualization
 
 📁 Files:  
-- `CS412-HW2-HüseryinErenYildiz.ipynb`  
-- `CS412-HW2-HüseryinErenYildiz.pdf`
+- `CS412-HW2-HüseyinErenYildiz.ipynb`  
+- `CS412-HW2-HüseyinErenYildiz.pdf`
 
 ---
 
@@ -64,7 +64,7 @@ This repository contains the homework assignments completed for the **CS412 - Ma
   - Normalized posterior probability computation
 
 📁 Files:  
-- `CS412-HW3-HüseryinErenYildiz.pdf`
+- `CS412-HW3-HüseyinErenYildiz.pdf`
 
 ---
 
@@ -82,8 +82,8 @@ This repository contains the homework assignments completed for the **CS412 - Ma
 - Visualization of training loss, accuracy, and misclassified samples
 
 📁 Files:  
-- `CS412-HW4-HüseryinErenYildiz.ipynb`  
-- `CS412-HW4-HüseryinErenYildiz.pdf`
+- `CS412-HW4-HüseyinErenYildiz.ipynb`  
+- `CS412-HW4-HüseyinErenYildiz.pdf`
 
 ---
 
